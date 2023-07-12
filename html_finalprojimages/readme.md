@@ -7,9 +7,8 @@
 ![java](https://github.com/Ivarock/Ivarock-Portfolio/blob/main/html_finalprojimages/java.png?raw=true)
 ![html](https://github.com/Ivarock/Ivarock-Portfolio/blob/main/html_finalprojimages/html5.png?raw=true)
 ![home](https://github.com/Ivarock/Ivarock-Portfolio/blob/main/html_finalprojimages/home.png?raw=true)
-![gifka](https://github.com/Ivarock/Ivarock-Portfolio/assets/129661878/48596918-4b5e-4074-af93-3108d215bea2)
 ![envelope](https://github.com/Ivarock/Ivarock-Portfolio/blob/main/html_finalprojimages/envelope.png?raw=true)
 ![emoji](https://github.com/Ivarock/Ivarock-Portfolio/blob/main/html_finalprojimages/emoji.png?raw=true)
 ![css](https://github.com/Ivarock/Ivarock-Portfolio/blob/main/html_finalprojimages/CSS3.png?raw=true)
 ![checkmark--outline](https://github.com/Ivarock/Ivarock-Portfolio/assets/129661878/8958edad-3c4f-408b-9082-e12fb2bcb3e8)
-
+![gifka](https://github.com/Ivarock/Ivarock-Portfolio/assets/129661878/48596918-4b5e-4074-af93-3108d215bea2)
