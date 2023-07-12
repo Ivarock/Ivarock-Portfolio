@@ -1,17 +1,1 @@
-![ruby](https://github.com/Ivarock/Ivarock-Portfolio/assets/129661878/a0a2818e-7505-46fe-8793-2adc1c466de1)
-![Uploading react.png…]()
-![Uploading python.png…]()
-![Uploading phone.png…]()
-![Uploading node.png…]()
-![js](https://github.com/Ivarock/Ivarock-Portfolio/assets/129661878/67e6ef56-10d7-4032-9437-f94dffb200f0)
-![Uploading java.png…]()
-![Uploading html5.png…]()
-![Uploading home.png…]()
-![gifka](https://github.com/Ivarock/Ivarock-Portfolio/assets/129661878/77870db8-9972-4f18-810f-761525905537)
-![Uploading flash.png…]()
-![Uploading envelope.png…]()
-![Uploading emoji.png…]()
-![Uploading CSS3.png…]()
-![checkmark--outline](https://github.com/Ivarock/Ivarock-Portfolio/assets/129661878/10dc3dd2-274b-4f89-88ce-0a8629edf30d)
-![Uploading bullet.png…]()
-This directory has all the images used in the final project.
+
