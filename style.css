@@ -35,6 +35,13 @@ body {
   padding-right: 1cm;
 }
 
+.profile_image {
+  width: 550px;
+  height: fit-content;
+  vertical-align: middle;
+  margin: 5px;
+}
+
 .profile_name {
   float: left;
   padding-left: 2cm;
@@ -58,21 +65,6 @@ body {
   margin-right: 10px;
   float:left;
   color: blanchedalmond;
-}
-
-/* Titles */
-
-h2 {
-  text-align: justify;
-  font-size: 50px;
-  text-align: center;
-  float: left;
-  color: #d15e00;
-  text-shadow: 0 2px 3px grey;
-  margin: 30px;
-  margin-left: 60px;
-  margin-top: 40px;
-  margin-bottom: 0px;
 }
 
 .introduction {
@@ -113,11 +105,19 @@ h2 {
   margin-top: -1cm;
 }
 
-.profile_image {
-  width: 550px;
-  height: fit-content;
-  vertical-align: middle;
-  margin: 5px;
+/* Titles */
+
+h2 {
+  text-align: justify;
+  font-size: 50px;
+  text-align: center;
+  float: left;
+  color: #d15e00;
+  text-shadow: 0 2px 3px grey;
+  margin: 30px;
+  margin-left: 60px;
+  margin-top: 40px;
+  margin-bottom: 0px;
 }
 
 /* Skills */
