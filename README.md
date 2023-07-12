@@ -1,2 +1,2 @@
-# Ivarock-Portfolio
+# Ivars-Portfolio
 Single page portfolio website
